@@ -1,0 +1,24 @@
+_repo: Rautalammin-runoniekan-Albert-Kukkosen-runoja_71833
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kukkonen, Albert
+    gutenberg_agent_id: '56417'
+    url: http://www.gutenberg.org/2009/agents/56417
+description: ''
+gutenberg_issued: '2023-10-08'
+identifiers:
+  gutenberg: '71833'
+language: fi
+pgterms:marc905: 20230929113400kukkonen
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aPorvoo :$bWSOY, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rautalammin runoniekan Albert Kukkosen runoja
+url: http://www.gutenberg.org/ebooks/71833
